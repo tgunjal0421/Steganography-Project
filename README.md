@@ -38,35 +38,8 @@ This project implements **image-based steganography**, allowing users to **hide 
 
 ---
 
-## **🚀 How to Run?**  
-### **🔹 Clone the Repository**  
-```bash
-git clone https://github.com/your-username/Image-Steganography.git
-cd Image-Steganography
-```
-
-### **🔹 Install Dependencies**  
-```bash
-pip install pillow
-```
-
-### **🔹 Run Encryption**  
-```bash
-python encryption.py
-```
-- Select an image and enter the message & password.  
-- The encrypted image (`encryptedimg.png`) will be generated.  
-
-### **🔹 Run Decryption**  
-```bash
-python decryption.py
-```
-- Select the **encrypted image** and enter the **password** to reveal the message.  
-
----
-
 ## **📸 Screenshots**  
-*(You can add some screenshots of the encryption & decryption process here!)*  
+![image](https://github.com/user-attachments/assets/63ef3cc3-350e-4f88-a0ea-eaebb459965e)
 
 ---
 
@@ -88,9 +61,3 @@ This project is **open-source** under the **MIT License**.
 
 ---
 
-## **🔗 GitHub Repository**  
-🔗 [Project Repository](https://github.com/your-username/Image-Steganography)  
-
----
-
-Let me know if you need modifications! 🚀
