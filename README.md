@@ -49,15 +49,3 @@ This project implements **image-based steganography**, allowing users to **hide 
 📱 **Mobile & Web Integration** – Develop a cross-platform application.  
 🤖 **AI-Based Detection** – Identify steganography-based security threats.  
 
----
-
-## **📌 Contributing**  
-Feel free to **fork this repository**, create a **new branch**, and submit a **pull request** with improvements!  
-
----
-
-## **📄 License**  
-This project is **open-source** under the **MIT License**.  
-
----
-
